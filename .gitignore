@@ -1,0 +1,33 @@
+# ---- CubeMX / CubeIDE 自动生成，可随时重建 ----
+*/Drivers/
+*/Middlewares/
+*/Debug/
+*/Release/
+*/.settings/
+*/.metadata/
+*/.mxproject
+*/.project
+*/.cproject
+*.launch
+*.ld
+
+# ---- 构建产物 ----
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+*.lst
+
+# ---- 日志与临时 ----
+*.log
+*.bak
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
